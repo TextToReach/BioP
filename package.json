@@ -2,7 +2,7 @@
 	"name": "learnreact",
 	"private": true,
 	"version": "0.0.0",
-	"homepage": "https://texttoreact.github.io/CellModels",
+	"homepage": "https://texttoreact.github.io/BioP",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
@@ -43,6 +43,7 @@
 		"gh-pages": "^6.2.0",
 		"globals": "^15.11.0",
 		"postcss": "^8.4.49",
+		"react-router-dom": "^7.0.2",
 		"tailwindcss": "^3.4.15",
 		"typescript": "~5.6.2",
 		"typescript-eslint": "^8.11.0",
